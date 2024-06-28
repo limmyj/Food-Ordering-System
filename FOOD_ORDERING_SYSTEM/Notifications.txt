@@ -1,0 +1,17 @@
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					100
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					50
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					150
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					150
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					200
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					300
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					10
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					20
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					25
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					66
+C0001/A0001/Receipt for Top-Up/Top-up Credit:					1
+C0002/A0001/Receipt for Top-Up/Top-up Credit:					200
+C0002/A0001/Receipt for Top-Up/Top-up Credit:					100
+C0007/A0001/Receipt for Top-Up/Top-up Credit:					100000
+C0008/A0001/Receipt for Top-Up/Top-up Credit:					10000000
+C0008/A0001/Receipt for Top-Up/Top-up Credit:					9999999
+C0002/A0001/Receipt for Top-Up/Top-up Credit:					30

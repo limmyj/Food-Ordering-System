@@ -1,0 +1,104 @@
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: 150.0
+  - Item: Alsafa
+    Price: 25.0
+    Quantity: 2
+    Item Amount: 50.0
+Credit Balance: 100.0
+Total Order Amount: 50.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: 150.0
+  - Item: Alsafa
+    Price: 25.0
+    Quantity: 2
+    Item Amount: 50.0
+Credit Balance: 100.0
+Total Order Amount: 50.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: -50.0
+  - Item: Alsafa
+    Price: 25.0
+    Quantity: 2
+    Item Amount: 50.0
+Credit Balance: -100.0
+Total Order Amount: 50.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: -50.0
+  - Item: Alsafa
+    Price: 25.0
+    Quantity: 2
+    Item Amount: 50.0
+Credit Balance: -100.0
+Total Order Amount: 50.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: 1072.0
+  - Item: KFC
+    Price: 9.0
+    Quantity: 12
+    Item Amount: 108.0
+Credit Balance: 964.0
+Total Order Amount: 108.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: 50.0
+  - Item: BURGER
+    Price: 12.0
+    Quantity: 3
+    Item Amount: 36.0
+Total Order Amount: 72.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: 50.0
+  - Item: BURGER
+    Price: 12.0
+    Quantity: 2
+    Item Amount: 24.0
+Total Order Amount: 24.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: 26.0
+  - Item: ROTI CANAI
+    Price: 2.0
+    Quantity: 1
+    Item Amount: 2.0
+Total Order Amount: 2.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: 24.0
+  - Item: BAN MEE
+    Price: 9.0
+    Quantity: 2
+    Item Amount: 18.0
+Total Order Amount: 18.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: 6.0
+  - Item: ROTI TELUR
+    Price: 3.0
+    Quantity: 1
+    Item Amount: 3.0
+Total Order Amount: 3.0
+
+Customer ID: C0001
+Customer Name: Kelvin
+Credit Balance: 74.0
+  - Item: DUMPLING
+    Price: 20.0
+    Quantity: 2
+    Item Amount: 40.0
+Total Order Amount: 40.0
+

@@ -1,0 +1,5 @@
+OrderID/CustomerID/VendorID/Rating/ReviewText
+O001/C001/V0001/4/Good quality food and timely delivery.
+O002/C002/V0002/5/Excellent service and delicious meals!
+O003/C001/V0001/3/The food was average, expected better taste.
+

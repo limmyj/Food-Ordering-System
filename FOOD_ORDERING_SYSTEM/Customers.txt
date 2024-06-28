@@ -1,0 +1,8 @@
+C0001/customer1/Kelvin/Kelvin/999/ 34.0
+C0002/customer2/Darren/Darren.my/999/330
+C0003/customerr/ali/khali/9/0
+C0004/customer444/ha/hah/9/0
+C0005/cust5/hahaha/hahaha/666/0
+C0007/c7/MyfollowersinIG/ig@mail/666/100000
+
+
